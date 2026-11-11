@@ -1,0 +1,101 @@
+Date,Product,Quantity,Price,Customer_ID,Region,Total_Sales,Year,Month,Day,Month_Label,Product_Clean,CustomerID,Tenure,MonthlyCharges,TotalCharges,Contract,PaymentMethod,PaperlessBilling,SeniorCitizen,Churn
+2024-01-01,Phone,7,37300,CUST001,East,261100,2024,1,1,2024-01,Phone,C00001,6,64,1540,One year,Credit Card,No,1,0
+2024-01-02,Headphones,4,15406,CUST002,North,61624,2024,1,2,2024-01,Headphones,C00002,21,113,1753,Month-to-month,Electronic Check,Yes,1,0
+2024-01-03,Phone,2,21746,CUST003,West,43492,2024,1,3,2024-01,Phone,C00003,27,31,1455,Two year,Credit Card,No,1,0
+2024-01-04,Headphones,1,30895,CUST004,East,30895,2024,1,4,2024-01,Headphones,C00004,53,29,7150,Month-to-month,Electronic Check,No,1,0
+2024-01-05,Laptop,8,39835,CUST005,North,318680,2024,1,5,2024-01,Laptop,C00005,16,185,1023,One year,Electronic Check,No,1,0
+2024-01-06,Laptop,7,40420,CUST006,South,282940,2024,1,6,2024-01,Laptop,C00006,55,44,7538,Two year,Electronic Check,No,0,0
+2024-01-07,Laptop,9,40430,CUST007,South,363870,2024,1,7,2024-01,Laptop,C00007,66,99,4178,Two year,Bank Transfer,No,1,0
+2024-01-08,Laptop,7,7262,CUST008,West,50834,2024,1,8,2024-01,Laptop,C00008,61,128,3088,Month-to-month,Bank Transfer,No,1,0
+2024-01-09,Tablet,3,32791,CUST009,North,98373,2024,1,9,2024-01,Tablet,C00009,64,124,7973,Month-to-month,Credit Card,No,1,0
+2024-01-10,Laptop,4,45023,CUST010,West,180092,2024,1,10,2024-01,Laptop,C00010,14,120,5844,One year,Bank Transfer,Yes,1,0
+2024-01-11,Monitor,8,6160,CUST011,West,49280,2024,1,11,2024-01,Monitor,C00011,59,57,5168,One year,Credit Card,Yes,0,0
+2024-01-12,Phone,2,13233,CUST012,West,26466,2024,1,12,2024-01,Phone,C00012,7,110,7282,Month-to-month,Electronic Check,No,1,1
+2024-01-13,Phone,8,20655,CUST013,East,165240,2024,1,13,2024-01,Phone,C00013,53,86,3438,Month-to-month,Bank Transfer,Yes,1,0
+2024-01-14,Headphones,4,4195,CUST014,East,16780,2024,1,14,2024-01,Headphones,C00014,8,158,6194,Month-to-month,Credit Card,No,1,1
+2024-01-15,Headphones,2,34447,CUST015,West,68894,2024,1,15,2024-01,Headphones,C00015,53,58,768,Month-to-month,Credit Card,Yes,1,0
+2024-01-16,Phone,9,41548,CUST016,South,373932,2024,1,16,2024-01,Phone,C00016,65,77,4071,Month-to-month,Credit Card,Yes,1,0
+2024-01-17,Phone,5,13488,CUST017,South,67440,2024,1,17,2024-01,Phone,C00017,19,187,4874,Two year,Credit Card,No,0,0
+2024-01-18,Tablet,4,19322,CUST018,North,77288,2024,1,18,2024-01,Tablet,C00018,42,101,3736,One year,Bank Transfer,Yes,0,0
+2024-01-19,Tablet,1,44045,CUST019,West,44045,2024,1,19,2024-01,Tablet,C00019,7,156,5389,One year,Bank Transfer,Yes,0,1
+2024-01-20,Laptop,8,41749,CUST020,North,333992,2024,1,20,2024-01,Laptop,C00020,26,105,6868,Month-to-month,Bank Transfer,Yes,1,0
+2024-01-21,Laptop,3,36518,CUST021,East,109554,2024,1,21,2024-01,Laptop,C00021,38,137,1000,Month-to-month,Electronic Check,No,1,0
+2024-01-22,Tablet,2,6713,CUST022,West,13426,2024,1,22,2024-01,Tablet,C00022,25,120,4855,Two year,Credit Card,Yes,0,0
+2024-01-23,Laptop,9,29275,CUST023,North,263475,2024,1,23,2024-01,Laptop,C00023,60,40,1755,One year,Credit Card,No,1,0
+2024-01-24,Headphones,1,17838,CUST024,West,17838,2024,1,24,2024-01,Headphones,C00024,30,100,3710,Two year,Credit Card,No,1,0
+2024-01-25,Monitor,2,9191,CUST025,West,18382,2024,1,25,2024-01,Monitor,C00025,25,193,7565,Month-to-month,Bank Transfer,No,0,0
+2024-01-26,Laptop,3,25948,CUST026,North,77844,2024,1,26,2024-01,Laptop,C00026,47,181,3295,One year,Credit Card,No,1,0
+2024-01-27,Tablet,1,38298,CUST027,North,38298,2024,1,27,2024-01,Tablet,C00027,60,101,3741,Month-to-month,Bank Transfer,No,1,0
+2024-01-28,Tablet,7,43495,CUST028,North,304465,2024,1,28,2024-01,Tablet,C00028,20,56,3950,One year,Bank Transfer,No,1,0
+2024-01-29,Headphones,1,45467,CUST029,North,45467,2024,1,29,2024-01,Headphones,C00029,36,175,3682,One year,Bank Transfer,No,0,0
+2024-01-30,Tablet,9,11902,CUST030,North,107118,2024,1,30,2024-01,Tablet,C00030,34,190,7540,One year,Bank Transfer,No,1,0
+2024-01-31,Tablet,6,34900,CUST031,East,209400,2024,1,31,2024-01,Tablet,C00031,28,101,4643,One year,Electronic Check,Yes,1,0
+2024-02-01,Phone,4,16997,CUST032,South,67988,2024,2,1,2024-02,Phone,C00032,10,196,4825,Month-to-month,Credit Card,Yes,0,1
+2024-02-02,Tablet,3,20696,CUST033,South,62088,2024,2,2,2024-02,Tablet,C00033,43,182,7129,One year,Electronic Check,Yes,0,0
+2024-02-03,Tablet,2,48602,CUST034,East,97204,2024,2,3,2024-02,Tablet,C00034,32,195,7139,One year,Bank Transfer,Yes,1,0
+2024-02-04,Tablet,6,4339,CUST035,South,26034,2024,2,4,2024-02,Tablet,C00035,60,44,1302,One year,Credit Card,No,1,0
+2024-02-05,Tablet,4,45515,CUST036,East,182060,2024,2,5,2024-02,Tablet,C00036,50,116,690,Month-to-month,Credit Card,No,1,0
+2024-02-06,Phone,5,40177,CUST037,North,200885,2024,2,6,2024-02,Phone,C00037,37,42,947,Month-to-month,Electronic Check,No,0,0
+2024-02-07,Monitor,8,19256,CUST038,East,154048,2024,2,7,2024-02,Monitor,C00038,62,166,6225,Two year,Electronic Check,Yes,1,0
+2024-02-08,Monitor,1,39924,CUST039,South,39924,2024,2,8,2024-02,Monitor,C00039,50,84,858,Month-to-month,Credit Card,No,0,0
+2024-02-09,Phone,4,11494,CUST040,South,45976,2024,2,9,2024-02,Phone,C00040,26,151,1952,Two year,Electronic Check,No,0,0
+2024-02-10,Monitor,1,20083,CUST041,West,20083,2024,2,10,2024-02,Monitor,C00041,42,20,1950,Two year,Credit Card,Yes,1,0
+2024-02-11,Phone,1,18616,CUST042,West,18616,2024,2,11,2024-02,Phone,C00042,7,148,2701,Two year,Credit Card,Yes,0,0
+2024-02-12,Tablet,6,43350,CUST043,West,260100,2024,2,12,2024-02,Tablet,C00043,63,89,6547,One year,Electronic Check,Yes,0,0
+2024-02-13,Monitor,4,43428,CUST044,West,173712,2024,2,13,2024-02,Monitor,C00044,42,123,3913,Month-to-month,Credit Card,No,1,0
+2024-02-14,Phone,2,40244,CUST045,East,80488,2024,2,14,2024-02,Phone,C00045,34,93,3344,Two year,Credit Card,Yes,0,0
+2024-02-15,Tablet,2,11032,CUST046,West,22064,2024,2,15,2024-02,Tablet,C00046,32,170,4773,Two year,Credit Card,No,1,0
+2024-02-16,Phone,6,29499,CUST047,North,176994,2024,2,16,2024-02,Phone,C00047,22,46,7555,Month-to-month,Bank Transfer,No,1,0
+2024-02-17,Monitor,1,6720,CUST048,West,6720,2024,2,17,2024-02,Monitor,C00048,37,162,3735,Month-to-month,Electronic Check,Yes,1,0
+2024-02-18,Laptop,1,32297,CUST049,South,32297,2024,2,18,2024-02,Laptop,C00049,56,49,3376,Month-to-month,Bank Transfer,No,0,0
+2024-02-19,Laptop,4,43848,CUST050,West,175392,2024,2,19,2024-02,Laptop,C00050,49,121,5161,One year,Bank Transfer,Yes,0,0
+2024-02-20,Phone,9,15160,CUST051,West,136440,2024,2,20,2024-02,Phone,C00051,71,172,416,Month-to-month,Electronic Check,No,1,0
+2024-02-21,Headphones,1,32524,CUST052,West,32524,2024,2,21,2024-02,Headphones,C00052,31,154,7537,Two year,Credit Card,Yes,1,0
+2024-02-22,Monitor,6,24160,CUST053,North,144960,2024,2,22,2024-02,Monitor,C00053,53,48,1497,One year,Credit Card,No,0,0
+2024-02-23,Tablet,5,1308,CUST054,North,6540,2024,2,23,2024-02,Tablet,C00054,49,68,2615,Month-to-month,Bank Transfer,Yes,1,0
+2024-02-24,Tablet,7,4341,CUST055,South,30387,2024,2,24,2024-02,Tablet,C00055,9,157,7022,Month-to-month,Bank Transfer,No,0,1
+2024-02-25,Phone,3,37135,CUST056,North,111405,2024,2,25,2024-02,Phone,C00056,47,54,6827,Two year,Bank Transfer,Yes,0,0
+2024-02-26,Monitor,6,37055,CUST057,East,222330,2024,2,26,2024-02,Monitor,C00057,58,121,3537,One year,Credit Card,No,1,0
+2024-02-27,Monitor,2,5272,CUST058,East,10544,2024,2,27,2024-02,Monitor,C00058,59,72,7053,Month-to-month,Bank Transfer,Yes,0,0
+2024-02-28,Laptop,5,15475,CUST059,South,77375,2024,2,28,2024-02,Laptop,C00059,36,38,3792,One year,Bank Transfer,Yes,1,0
+2024-02-29,Headphones,3,13624,CUST060,South,40872,2024,2,29,2024-02,Headphones,C00060,26,182,7074,Month-to-month,Credit Card,No,0,0
+2024-03-01,Tablet,5,29840,CUST061,North,149200,2024,3,1,2024-03,Tablet,C00061,23,187,5608,Month-to-month,Electronic Check,No,1,0
+2024-03-02,Laptop,8,19661,CUST062,South,157288,2024,3,2,2024-03,Laptop,C00062,10,195,4284,Two year,Electronic Check,No,0,1
+2024-03-03,Monitor,9,24224,CUST063,East,218016,2024,3,3,2024-03,Monitor,C00063,53,128,5803,One year,Bank Transfer,No,0,0
+2024-03-04,Laptop,5,17924,CUST064,West,89620,2024,3,4,2024-03,Laptop,C00064,25,176,4496,One year,Bank Transfer,No,1,0
+2024-03-05,Phone,7,44652,CUST065,South,312564,2024,3,5,2024-03,Phone,C00065,65,180,4142,One year,Credit Card,Yes,0,0
+2024-03-06,Laptop,8,14381,CUST066,North,115048,2024,3,6,2024-03,Laptop,C00066,3,140,2541,One year,Electronic Check,No,1,0
+2024-03-07,Headphones,2,44487,CUST067,East,88974,2024,3,7,2024-03,Headphones,C00067,53,61,3631,One year,Bank Transfer,No,0,0
+2024-03-08,Laptop,3,34303,CUST068,North,102909,2024,3,8,2024-03,Laptop,C00068,62,62,3016,Two year,Credit Card,Yes,0,0
+2024-03-09,Tablet,3,23229,CUST069,North,69687,2024,3,9,2024-03,Tablet,C00069,2,102,1333,Two year,Credit Card,Yes,0,1
+2024-03-10,Laptop,9,35418,CUST070,South,318762,2024,3,10,2024-03,Laptop,C00070,53,21,6828,One year,Credit Card,No,0,0
+2024-03-11,Phone,4,34843,CUST071,West,139372,2024,3,11,2024-03,Phone,C00071,69,153,1418,Month-to-month,Electronic Check,No,0,0
+2024-03-12,Headphones,8,18964,CUST072,East,151712,2024,3,12,2024-03,Headphones,C00072,68,153,1930,One year,Electronic Check,Yes,0,0
+2024-03-13,Headphones,7,49930,CUST073,West,349510,2024,3,13,2024-03,Headphones,C00073,13,125,3696,Two year,Credit Card,No,1,0
+2024-03-14,Tablet,4,17512,CUST074,South,70048,2024,3,14,2024-03,Tablet,C00074,2,152,2038,Month-to-month,Bank Transfer,No,0,1
+2024-03-15,Monitor,6,23381,CUST075,North,140286,2024,3,15,2024-03,Monitor,C00075,70,77,7593,Two year,Electronic Check,Yes,0,0
+2024-03-16,Phone,5,16596,CUST076,South,82980,2024,3,16,2024-03,Phone,C00076,35,170,936,One year,Bank Transfer,Yes,0,0
+2024-03-17,Laptop,7,2603,CUST077,South,18221,2024,3,17,2024-03,Laptop,C00077,4,43,7302,Month-to-month,Credit Card,Yes,0,1
+2024-03-18,Tablet,9,26110,CUST078,East,234990,2024,3,18,2024-03,Tablet,C00078,41,109,7937,Two year,Bank Transfer,Yes,1,0
+2024-03-19,Tablet,9,19425,CUST079,North,174825,2024,3,19,2024-03,Tablet,C00079,8,95,3792,One year,Bank Transfer,Yes,1,0
+2024-03-20,Phone,4,49101,CUST080,South,196404,2024,3,20,2024-03,Phone,C00080,47,138,6406,Two year,Credit Card,Yes,0,0
+2024-03-21,Laptop,4,28098,CUST081,East,112392,2024,3,21,2024-03,Laptop,C00081,35,139,5211,Two year,Bank Transfer,No,0,0
+2024-03-22,Headphones,2,48769,CUST082,South,97538,2024,3,22,2024-03,Headphones,C00082,30,162,3917,One year,Credit Card,No,0,0
+2024-03-23,Laptop,8,43861,CUST083,North,350888,2024,3,23,2024-03,Laptop,C00083,27,142,1908,Two year,Bank Transfer,No,1,0
+2024-03-24,Phone,8,40518,CUST084,South,324144,2024,3,24,2024-03,Phone,C00084,50,141,4412,Month-to-month,Credit Card,No,0,0
+2024-03-25,Laptop,3,7455,CUST085,South,22365,2024,3,25,2024-03,Laptop,C00085,51,136,4725,Two year,Bank Transfer,Yes,1,0
+2024-03-26,Monitor,7,11591,CUST086,North,81137,2024,3,26,2024-03,Monitor,C00086,63,29,7685,Two year,Credit Card,Yes,1,0
+2024-03-27,Tablet,4,3839,CUST087,West,15356,2024,3,27,2024-03,Tablet,C00087,43,103,2856,One year,Electronic Check,No,1,0
+2024-03-28,Phone,6,4578,CUST088,West,27468,2024,3,28,2024-03,Phone,C00088,40,108,2650,One year,Electronic Check,No,1,0
+2024-03-29,Laptop,6,38037,CUST089,North,228222,2024,3,29,2024-03,Laptop,C00089,41,177,4075,One year,Bank Transfer,Yes,0,0
+2024-03-30,Monitor,4,9483,CUST090,East,37932,2024,3,30,2024-03,Monitor,C00090,21,126,7735,One year,Credit Card,Yes,0,0
+2024-03-31,Laptop,1,7148,CUST091,North,7148,2024,3,31,2024-03,Laptop,C00091,3,188,2422,Two year,Credit Card,No,1,0
+2024-04-01,Tablet,5,30531,CUST092,South,152655,2024,4,1,2024-04,Tablet,C00092,42,122,1294,Two year,Bank Transfer,No,0,0
+2024-04-02,Headphones,6,42813,CUST093,South,256878,2024,4,2,2024-04,Headphones,C00093,18,29,7469,Month-to-month,Electronic Check,Yes,0,0
+2024-04-03,Laptop,6,16667,CUST094,South,100002,2024,4,3,2024-04,Laptop,C00094,55,193,4344,Two year,Bank Transfer,No,1,0
+2024-04-04,Tablet,7,19507,CUST095,West,136549,2024,4,4,2024-04,Tablet,C00095,21,140,3171,One year,Electronic Check,No,1,0
+2024-04-05,Tablet,8,20770,CUST096,North,166160,2024,4,5,2024-04,Tablet,C00096,20,150,1780,Month-to-month,Electronic Check,Yes,0,0
+2024-04-06,Headphones,1,7647,CUST097,West,7647,2024,4,6,2024-04,Headphones,C00097,15,40,510,Month-to-month,Bank Transfer,No,0,0
+2024-04-07,Tablet,5,27196,CUST098,East,135980,2024,4,7,2024-04,Tablet,C00098,42,172,1168,Month-to-month,Bank Transfer,No,1,0
+2024-04-08,Monitor,1,30717,CUST099,North,30717,2024,4,8,2024-04,Monitor,C00099,10,143,3353,Two year,Electronic Check,No,1,1
+2024-04-09,Headphones,5,23376,CUST100,South,116880,2024,4,9,2024-04,Headphones,C00100,39,84,7566,One year,Electronic Check,No,1,0
